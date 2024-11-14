@@ -1,4 +1,4 @@
-- hi, I’m mitt
+- hi, i’m mitt
 - i’m interested in gaming, drawing, reading and learning new skills
 - i’m currently learning coding in different languages for different kinds of projects and future opportunities
 - how to reach me: do not 
