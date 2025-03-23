@@ -1,8 +1,7 @@
 - hi, i’m mitt
-- i’m interested in gaming, drawing, reading and learning new skills
-- i’m currently learning coding in different languages for different kinds of projects and future opportunities
+- i’m interested in gaming, drawing, reading, writing and learning new skills
+- i'm trying to learn game dev in unity and web dev (backend)
 - how to reach me: do not 
-- fun fact: one of my incisors is rotated 90 deg making me look like i have 2 canines lol
 
 <!---
 heyimmitt/heyimmitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
